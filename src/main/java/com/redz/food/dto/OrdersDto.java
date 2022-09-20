@@ -1,7 +1,7 @@
 package com.redz.food.dto;
 
-import com.itheima.reggie.entity.OrderDetail;
-import com.itheima.reggie.entity.Orders;
+import com.redz.food.entity.OrderDetail;
+import com.redz.food.entity.Orders;
 import lombok.Data;
 import java.util.List;
 
